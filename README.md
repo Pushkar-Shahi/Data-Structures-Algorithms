@@ -13,6 +13,7 @@ This repository contains solutions to coding problems from various platforms, or
 
 ## 📚 Topics Covered
 
+* Basics of Programming
 * Arrays
 * Strings
 * Hashing
