@@ -52,6 +52,7 @@ This repository contains solutions to coding problems from various platforms, or
 
 ```text
 DSA/
+├── Basics of Programming
 ├── Arrays/
 ├── Strings/
 ├── Hashing/
